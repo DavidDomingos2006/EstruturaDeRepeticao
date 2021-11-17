@@ -10,7 +10,7 @@ public class Main {
    
     public static void main(String[] args) {
        
-        
+        //projeto lançado no github
             int n = Integer.parseInt(JOptionPane.showInputDialog(null,"<html>Somando valores</html> ", "Digite aqui"));
             int resultado = 0, par = 0, impar = 0, maior100 = 0, contador = 0;
             double media = 0;
